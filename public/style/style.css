@@ -272,7 +272,7 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 380px;
+    height: 340px;
 }
 footer > div {
     display: flex;
@@ -295,6 +295,7 @@ footer h4 {
     color: white;
     margin: 0;
     margin-bottom: 50px;
+    margin-top: 50px;
 }
 footer img {
     width: 90px;
