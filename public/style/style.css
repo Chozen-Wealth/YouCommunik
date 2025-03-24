@@ -141,6 +141,8 @@ font-size: 26px;
     width: 120px;
 }
 /* FIN SECTION 3 */
+
+/* DEBUT SECTION 4 */
 main section:nth-of-type(4) {
     height: 560px;
     display: flex;
