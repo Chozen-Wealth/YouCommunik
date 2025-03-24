@@ -46,6 +46,7 @@ nav ul li a img {
 /* Fin NAV */
 
 /* MAIN DEBUT */
+/* DEBUT SECTION 1 */
 main section:first-of-type {
     background-color: #334D5C;
     display: flex;
@@ -63,6 +64,7 @@ main section:first-of-type div:first-of-type {
 main section:first-of-type img {
     height: 200px;
 }
+/* FIN SECTION 1 */
 main section:first-of-type div:nth-of-type(2) {
     display: flex;
     flex-direction: column;
