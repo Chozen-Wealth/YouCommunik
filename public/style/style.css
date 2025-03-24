@@ -165,7 +165,6 @@ main section:nth-of-type(4) div p {
 }
 main section:nth-of-type(4) img {
     width: 300px;
-    filter: saturate(1);
 }
 
 .avantages2 {
