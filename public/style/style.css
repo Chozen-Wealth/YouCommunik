@@ -65,6 +65,7 @@ main section:first-of-type img {
     height: 200px;
 }
 /* FIN SECTION 1 */
+/* DEBUT SECTION 2 */
 main section:first-of-type div:nth-of-type(2) {
     display: flex;
     flex-direction: column;
