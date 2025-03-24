@@ -8,6 +8,7 @@ body {
 }
 
 /* GENERAL FIN */
+
 /* NAV DEBUT */
 nav {
     background-color: #1A1A1D;
@@ -75,6 +76,7 @@ main section:first-of-type h2 {
     font-weight: 300;
 }
 /* FIN SECTION 1 */
+
 /* DEBUT SECTION 2 */
 main section:first-of-type div:nth-of-type(2) {
     display: flex;
@@ -119,6 +121,7 @@ main section:nth-of-type(2) img {
 }
 /* FIN SECTION 2 */
 
+/* DEBUT SECTION 3 */
 .avantages {
     background-color: #EAE3D6;
     display: flex;
@@ -137,7 +140,7 @@ font-size: 26px;
 .avantages img {
     width: 120px;
 }
-
+/* FIN SECTION 3 */
 main section:nth-of-type(4) {
     height: 560px;
     display: flex;
